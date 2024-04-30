@@ -1,0 +1,22 @@
+{
+    "peliculas": [
+        {
+            "id": 1,
+            "name": "Interestelar",
+            "author": "Christopher Nolan",
+            "year": 2014
+        },
+        {
+            "id": 2,
+            "name": "Fury",
+            "author": "David Ayer",
+            "year": 2014
+        },
+        {
+            "id": 3,
+            "Name": "Juegos de gemelas",
+            "author": "Nancy Meyers",
+            "year": 1999
+        }
+    ]
+}
